@@ -1,0 +1,8 @@
+OperationsCenter:
+  HostName: core.allthedevops.com
+  Platform: aks
+nginx-ingress:
+  Enabled: true
+Hibernation:
+  Enabled: true
+StorageClass: "managed-premium"
